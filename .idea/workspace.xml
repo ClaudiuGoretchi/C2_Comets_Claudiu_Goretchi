@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e71a7f01-57e4-42f9-91c6-c19b539e24e9" name="Changes" comment="[SOL] - check balance">
+    <list default="true" id="e71a7f01-57e4-42f9-91c6-c19b539e24e9" name="Changes" comment="[SOL] - airdrop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/check-balance.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/check-balance.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     "Node.js.generate-keypair.ts.executor": "Run",
     "Node.js.load-keypair.ts.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "lab2",
+    "git-widget-placeholder": "lab3",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/claud/WebstormProjects/C2_Comets_Claudiu_Goretchi",
     "node.js.detected.package.eslint": "true",
@@ -68,7 +67,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.check-balance.ts">
+  <component name="RunManager" selected="Node.js.load-keypair.ts">
     <configuration name="check-balance.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lab2/check-balance.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$/lab2">
       <method v="2" />
     </configuration>
@@ -80,6 +79,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.load-keypair.ts" />
+        <item itemvalue="Node.js.generate-keypair.ts" />
         <item itemvalue="Node.js.check-balance.ts" />
         <item itemvalue="Node.js.load-keypair.ts" />
         <item itemvalue="Node.js.generate-keypair.ts" />
@@ -152,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729176275469</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="[SOL] - airdrop">
+      <option name="closed" value="true" />
+      <created>1729177547810</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729177547810</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +172,7 @@
     <MESSAGE value="[SOL] - load keypair" />
     <MESSAGE value="[SOL] - ignore" />
     <MESSAGE value="[SOL] - check balance" />
-    <option name="LAST_COMMIT_MESSAGE" value="[SOL] - check balance" />
+    <MESSAGE value="[SOL] - airdrop" />
+    <option name="LAST_COMMIT_MESSAGE" value="[SOL] - airdrop" />
   </component>
 </project>
