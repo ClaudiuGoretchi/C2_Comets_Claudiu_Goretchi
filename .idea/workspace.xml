@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e71a7f01-57e4-42f9-91c6-c19b539e24e9" name="Changes" comment="[SOL] - ignore">
+    <list default="true" id="e71a7f01-57e4-42f9-91c6-c19b539e24e9" name="Changes" comment="[SOL] - check balance">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/check-balance.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/check-balance.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729174156075</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[SOL] - check balance">
+      <option name="closed" value="true" />
+      <created>1729176275469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729176275469</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +162,7 @@
     <MESSAGE value="[SOL] - basic keypair" />
     <MESSAGE value="[SOL] - load keypair" />
     <MESSAGE value="[SOL] - ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="[SOL] - ignore" />
+    <MESSAGE value="[SOL] - check balance" />
+    <option name="LAST_COMMIT_MESSAGE" value="[SOL] - check balance" />
   </component>
 </project>
