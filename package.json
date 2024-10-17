@@ -1,0 +1,26 @@
+{
+  "name": "c2_comets_claudiu_goretchi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudiuGoretchi/C2_Comets_Claudiu_Goretchi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaudiuGoretchi/C2_Comets_Claudiu_Goretchi/issues"
+  },
+  "homepage": "https://github.com/ClaudiuGoretchi/C2_Comets_Claudiu_Goretchi#readme",
+  "dependencies": {
+    "@solana-developers/helpers": "^2.5.6",
+    "@solana/web3.js": "^1.95.3",
+    "dotenv": "^16.4.5",
+    "esrun": "^3.2.26"
+  }
+}
