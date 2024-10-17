@@ -65,7 +65,9 @@
     "superstruct": "^2.0.2",
     "safe-buffer": "^5.2.1",
     "utf-8-validate": "^5.0.10",
-    "node-gyp-build": "^4.8.2"
+    "node-gyp-build": "^4.8.2",
+    "@solana-developers/helpers": "^2.5.6",
+    "@solana/web3.js": "^1.95.3"
   },
   "devDependencies": {},
   "scripts": {
@@ -81,11 +83,5 @@
   "bugs": {
     "url": "https://github.com/ClaudiuGoretchi/C2_Comets_Claudiu_Goretchi/issues"
   },
-  "homepage": "https://github.com/ClaudiuGoretchi/C2_Comets_Claudiu_Goretchi#readme",
-  "dependencies": {
-    "@solana-developers/helpers": "^2.5.6",
-    "@solana/web3.js": "^1.95.3",
-    "dotenv": "^16.4.5",
-    "esrun": "^3.2.26"
-  }
+  "homepage": "https://github.com/ClaudiuGoretchi/C2_Comets_Claudiu_Goretchi#readme"
 }
