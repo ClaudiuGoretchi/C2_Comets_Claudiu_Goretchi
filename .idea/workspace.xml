@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e71a7f01-57e4-42f9-91c6-c19b539e24e9" name="Changes" comment="[SOL] - load keypair">
-      <change beforePath="$PROJECT_DIR$/lab1/load-keypair.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/load-keypair.ts" afterDir="false" />
+    <list default="true" id="e71a7f01-57e4-42f9-91c6-c19b539e24e9" name="Changes" comment="[SOL] - check balance">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/check-balance.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/check-balance.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lab1" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,26 +48,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Node.js.generate-keypair.ts.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.load-keypair.ts.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/claud/WebstormProjects/C2_Comets_Claudiu_Goretchi&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;wsl://Ubuntu@/usr/bin/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\claud\\WebstormProjects\\C2_Comets_Claudiu_Goretchi\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.check-balance.ts.executor": "Run",
+    "Node.js.generate-keypair.ts.executor": "Run",
+    "Node.js.load-keypair.ts.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "lab2",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/claud/WebstormProjects/C2_Comets_Claudiu_Goretchi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "wsl://Ubuntu@/usr/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "ts.external.directory.path": "C:\\Users\\claud\\WebstormProjects\\C2_Comets_Claudiu_Goretchi\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Node.js.load-keypair.ts">
+}]]></component>
+  <component name="RunManager" selected="Node.js.check-balance.ts">
+    <configuration name="check-balance.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lab2/check-balance.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$/lab2">
+      <method v="2" />
+    </configuration>
     <configuration name="generate-keypair.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lab1/generate-keypair.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$/lab1">
       <method v="2" />
     </configuration>
@@ -75,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.check-balance.ts" />
         <item itemvalue="Node.js.load-keypair.ts" />
         <item itemvalue="Node.js.generate-keypair.ts" />
       </list>
@@ -114,7 +120,39 @@
       <option name="project" value="LOCAL" />
       <updated>1729169781282</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[SOL] - ignore">
+      <option name="closed" value="true" />
+      <created>1729174046653</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729174046653</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[SOL] - ignore">
+      <option name="closed" value="true" />
+      <created>1729174113177</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729174113177</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[SOL] - ignore">
+      <option name="closed" value="true" />
+      <created>1729174156075</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729174156075</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[SOL] - check balance">
+      <option name="closed" value="true" />
+      <created>1729176275469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729176275469</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,8 +160,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[SOL] - basic keypair" />
-    <MESSAGE value="[SOL] - ignore" />
     <MESSAGE value="[SOL] - load keypair" />
-    <option name="LAST_COMMIT_MESSAGE" value="[SOL] - load keypair" />
+    <MESSAGE value="[SOL] - ignore" />
+    <MESSAGE value="[SOL] - check balance" />
+    <option name="LAST_COMMIT_MESSAGE" value="[SOL] - check balance" />
   </component>
 </project>
