@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e71a7f01-57e4-42f9-91c6-c19b539e24e9" name="Changes" comment="[SOL] - airdrop">
+    <list default="true" id="e71a7f01-57e4-42f9-91c6-c19b539e24e9" name="Changes" comment="[SOL] - mint token">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
     "Node.js.generate-keypair.ts.executor": "Run",
     "Node.js.load-keypair.ts.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "lab3",
+    "git-widget-placeholder": "lab4",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/claud/WebstormProjects/C2_Comets_Claudiu_Goretchi",
     "node.js.detected.package.eslint": "true",
@@ -161,7 +161,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729177547810</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[SOL] - transers">
+      <option name="closed" value="true" />
+      <created>1729178640771</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729178640771</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[SOL] - mint token">
+      <option name="closed" value="true" />
+      <created>1729181656791</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729181656791</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +189,8 @@
     <MESSAGE value="[SOL] - ignore" />
     <MESSAGE value="[SOL] - check balance" />
     <MESSAGE value="[SOL] - airdrop" />
-    <option name="LAST_COMMIT_MESSAGE" value="[SOL] - airdrop" />
+    <MESSAGE value="[SOL] - transers" />
+    <MESSAGE value="[SOL] - mint token" />
+    <option name="LAST_COMMIT_MESSAGE" value="[SOL] - mint token" />
   </component>
 </project>
