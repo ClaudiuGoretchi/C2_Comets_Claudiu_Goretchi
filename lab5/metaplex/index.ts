@@ -51,7 +51,7 @@ async function uploadMetadata(
     console.log("🚀 Uploading metadata...");
 
     // TODO: load nftData.imageFile into buffer
-    const buffer = fs.readFileSync(nftData.imageFile);;
+    const buffer = fs.readFileSync(nftData.imageFile);
 
     // TODO: convert buffer to metaplex file
     const file = toMetaplexFile(buffer, nftData.imageFile);
