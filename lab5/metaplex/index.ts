@@ -31,7 +31,7 @@ const nftData = {
     symbol: "SYMBOL",
     description: "Description",
     sellerFeeBasisPoints: 0,
-    imageFile: "logo-comets.png",
+    imageFile: "lab5/metaplex/logo-comets.png",
 };
 
 // TODO: BONUS example data for updating an existing NFT
