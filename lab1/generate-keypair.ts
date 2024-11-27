@@ -1,7 +1,7 @@
 import {Keypair} from "@solana/web3.js";
 
 const keypair = Keypair.generate();
-
+//test-message
 console.log('Public keypair: ', keypair.publicKey.toBase58());
 console.log('Secret keypair: ', keypair.secretKey);
 console.log('Generated keypair')
