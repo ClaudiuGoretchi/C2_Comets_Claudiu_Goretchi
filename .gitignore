@@ -2,3 +2,6 @@
 /.env
 /workspace.xml
 .idea
+Cargo.lock
+target/
+.vscode/
