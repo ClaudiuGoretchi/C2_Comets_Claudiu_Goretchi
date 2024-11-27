@@ -208,8 +208,6 @@ unsafe_code = "forbid"
 unstable_features = "forbid"
 
 [lints.clippy]
-# You forgot a `todo!()`
-#todo = "forbid"
 # This can only happen by mistake in Rustlings
 empty_loop = "forbid"
 # No infinite loops are needed in Rustlings
